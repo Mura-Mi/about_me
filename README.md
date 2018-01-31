@@ -10,8 +10,9 @@
 
 ## Agile / Management
 * Scrum
-  * Licensed Scrum Product Owner
-  * Certificated Scrum Master
+<img src='./csm.png' width='100'><img src='./lspo.png' width='100'>
+  * Certificated Scrum Master 
+  * Licensed Scrum Product Owner 
 * Management 3.0
 
 # Career
