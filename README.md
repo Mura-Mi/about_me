@@ -16,8 +16,8 @@
 * Management 3.0
 
 # Career
-## Simplex
-## CyberAgent
+## Simplex (Apr, 2012 ~ Sep, 2016)
+## CyberAgent (Oct, 2016 ~ Jan, 2018)
 
 # Other than engineer
 http://murataku.yokohama
