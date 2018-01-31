@@ -5,9 +5,8 @@
   * Finagle
   * Finch
 * Java
-  * Spring
 * Ruby
-  * Ruby on Rails
+  * Ruby on Rails (3.2.x, 4.x, 5.0.x)
 
 ## Agile / Management
 * Scrum
