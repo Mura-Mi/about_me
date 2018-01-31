@@ -20,6 +20,7 @@
 ## [Simplex](http://www.simplex.ne.jp) (Apr, 2012 ~ Sep, 2016)
 
 ### Interest Rate Derivative Risk Evaluation System Introduction (Simplex PRISM) for Japanese Commercial Bank (Jul, 2012 ~ Jul, 2013)
+This project introduced Simplex PRISM to a japanese commercial bank as interest-based derivative evaluation system.
 
 #### My Roles
 * Client side application developer (Java SE7, Swing)
@@ -33,8 +34,10 @@
   * Hibernate
   * Swing
   * Inhouse-developed application framework
+* Oracle 10g
 
-### Interest / FX Derivertive Risk Evaluation System (Simplex PRISM) for Japanese Mega-bank (Aug, 2013 ~ Apr, 2015)
+### Interest / FX Derivertive Risk Evaluation System (Simplex PRISM) for Japanese Mega-Bank (Aug, 2013 ~ Apr, 2015)
+This project introduced Simplex PRISM to a Japanese mega-bank trading division as fair value evaluation system.
 
 #### My Role
 * Evaluation algorithm implementation of following financial products
@@ -44,7 +47,8 @@
   * Bond future and future option
   * FX Rate option
 * Risk evaluation system developer
-* Implement automated test of financial product evaluation algorithm and risk evaluation system
+* Implementation of automated test for financial product evaluation algorithm and risk evaluation system
+* Implementation of OIS-based yield curve calculator prototype with Microsoft Excel VBA
 
 #### Technorogy
 * Java SE 7
@@ -54,6 +58,7 @@
   * Gridgain
   * Swing
   * Inhouse-developed application framework
+* Oracle 10g
 
 ## CyberAgent (Oct, 2016 ~ Jan, 2018)
 
