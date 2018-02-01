@@ -77,15 +77,42 @@ This project introduced Simplex PRISM to a Japanese mega-bank trading division a
   * ECMAScript2015
   * Webpack
   * Babel
+* Amazon Web Service
+  * EC2
+  * S3
+  * Lambda
+  * RDS (MySQL)
+  * Redshift
+  * ElastiCache (Redis 3.2)
 
-### New Demand-side OpenRTB bidder system (DSP)
+### New OpenRTB Demand-Side Bidder System (DSP)
 I've developed new OpenRTB bidder system from scratch. 
 
 #### My Role
 * Introduce Scrum
 * Product Owner
-* Lead Developer
+* Lead Developer. I've developed all of following systems.
+  * OpenRTB Bidder
+  * Impression and click tracking system
+  * Web UI for Advertisement operators
+  * Microservice for bidder's cache management
 
+#### Technorogy
+* Scala
+  * Finagle
+  * Finch
+  * reladomo-scala
+* Flyway
+* JavaScript
+  * Vue.js
+* Amazon Web Service
+  * EC2
+  * S3
+  * RDS (MySQL)
+  * Redshift
+  * ElastiCache (Redis 3.2)
+  * Athena
+  * Kinesis Firehose
 
 # Other than engineer
 http://murataku.yokohama
