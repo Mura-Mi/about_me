@@ -25,7 +25,7 @@ This project introduced Simplex PRISM to a japanese commercial bank as interest-
 #### My Roles
 * Client side application developer (Java SE7, Swing)
 * Data migration tool developer (Java SE7)
-* System migration planning / testing
+* Plan, design and test System migration schedule and operation
 * System migration from fromer system
 
 #### Technorogy
@@ -40,15 +40,14 @@ This project introduced Simplex PRISM to a japanese commercial bank as interest-
 This project introduced Simplex PRISM to a Japanese mega-bank trading division as fair value evaluation system.
 
 #### My Role
-* Evaluation algorithm implementation of following financial products
+* Developer of evaluation algorithm and risk evaluation system of following financial products
   * Interest rate swap
   * European terest rate Swaption
   * Interest rate future and future option
   * Bond future and future option
   * FX Rate option
-* Risk evaluation system developer
-* Implementation of automated test for financial product evaluation algorithm and risk evaluation system
-* Implementation of OIS-based yield curve calculator prototype with Microsoft Excel VBA
+* Implement automated test for financial product evaluation algorithm and risk evaluation system
+* Develop OIS-based yield curve calculator prototype running on Microsoft Excel VBA
 
 #### Technorogy
 * Java SE 7
@@ -59,19 +58,21 @@ This project introduced Simplex PRISM to a Japanese mega-bank trading division a
   * Swing
   * Inhouse-developed application framework
 * Oracle 10g
+* Microsoft Excel VBA
 
 ## [CyberAgent](https://www.cyberagent.co.jp/) [AdTech Studio](https://adtech.cyberagent.io/) (Oct, 2016 ~ Jan, 2018)
 ### [AIRTRACK](https://www.airtrack.jp/) (Location Data Management Platform)
 
 #### My Role
-* Implemention and improvement of data aggregation and transformation
-* Development of third-party ad service system
+* Implement and improve data aggregation and transformation system
+* Develop third-party ad service system
 
 #### Technorogy
 * Java SE8
-  * Eclipse Collections
   * Spring
   * Spark (sparkjava.com)
+  * Doma 2.0
+  * Eclipse Collections
 * JavaScript
   * ECMAScript2015
   * Webpack
