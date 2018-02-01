@@ -60,7 +60,31 @@ This project introduced Simplex PRISM to a Japanese mega-bank trading division a
   * Inhouse-developed application framework
 * Oracle 10g
 
-## CyberAgent (Oct, 2016 ~ Jan, 2018)
+## [CyberAgent](https://www.cyberagent.co.jp/) [AdTech Studio](https://adtech.cyberagent.io/) (Oct, 2016 ~ Jan, 2018)
+### [AIRTRACK](https://www.airtrack.jp/) (Location Data Management Platform)
+
+#### My Role
+* Implemention and improvement of data aggregation and transformation
+* Development of third-party ad service system
+
+#### Technorogy
+* Java SE8
+  * Eclipse Collections
+  * Spring
+  * Spark (sparkjava.com)
+* JavaScript
+  * ECMAScript2015
+  * Webpack
+  * Babel
+
+### New Demand-side OpenRTB bidder system (DSP)
+I've developed new OpenRTB bidder system from scratch. 
+
+#### My Role
+* Introduce Scrum
+* Product Owner
+* Lead Developer
+
 
 # Other than engineer
 http://murataku.yokohama
