@@ -114,6 +114,20 @@ I've developed new OpenRTB bidder system from scratch.
   * Athena
   * Kinesis Firehose
 
+## [FOLIO](https://corp.folio-sec.com) Financial Technorogy Division (Feb, 2018 ~)
+
+### My Role
+* Backend Engineer
+  * Develop features for account service and instrument price provider service
+* Agile Coach
+  * Support my team to implement Scrum system development
+
+### Technorogy
+* Scala
+  * Finagle / Finatra
+* Domain Driven Design
+* Scrum
+
 # Other than engineer
 http://murataku.yokohama
 
