@@ -128,6 +128,9 @@ I've developed new OpenRTB bidder system from scratch.
 * Domain Driven Design
 * Scrum
 
+# Featured Articles
+- [Interview in Forkwell Press (August 2018)](https://press.forkwell.com/entry/2018/08/17/090000)
+
 # Other than engineer
 http://murataku.yokohama
 
