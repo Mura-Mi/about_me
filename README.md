@@ -42,7 +42,7 @@ This project introduced Simplex PRISM to a Japanese mega-bank trading division a
 #### My Role
 * Developer of evaluation algorithm and risk evaluation system of following financial products
   * Interest rate swap
-  * European terest rate Swaption
+  * European interest rate Swaption
   * Interest rate future and future option
   * Bond future and future option
   * FX Rate option
