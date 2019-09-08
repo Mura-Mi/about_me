@@ -70,7 +70,7 @@ This project introduced Simplex PRISM to a Japanese mega-bank trading division a
 #### Technorogy
 * Java SE8
   * Spring
-  * Spark (sparkjava.com)
+  * [Spark](sparkjava.com)
   * Doma 2.0
   * Eclipse Collections
 * JavaScript
