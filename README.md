@@ -99,9 +99,9 @@ I've developed new OpenRTB bidder system from scratch.
 
 #### Technorogy
 * Scala
-  * Finagle
-  * Finch
-  * reladomo-scala
+  * [Finagle](http://twitter.github.io/finagle/)
+  * [Finch](https://github.com/finagle/finch) (0.6.0)
+  * [reladomo-scala](https://github.com/folio-sec/reladomo-scala)
 * Flyway
 * JavaScript
   * Vue.js
@@ -114,19 +114,24 @@ I've developed new OpenRTB bidder system from scratch.
   * Athena
   * Kinesis Firehose
 
-## [FOLIO](https://corp.folio-sec.com) Financial Technorogy Division (Feb, 2018 ~)
+## [FOLIO](https://corp.folio-sec.com) 
+* Financial Technorogy Division (Feb, 2018 ~ Aug, 2019)
+* Product Division (Sep, 2019 ~)
 
 ### My Role
 * Backend Engineer
-  * Develop features for account service and instrument price provider service
+  * Design/Develop/Maintain following microservices (API Servers) for Theme-investment
+    * Fianncial product management
+    * Instrument price feed service
+    * Asset view for customers
 * Agile Coach
   * Support my team to implement Scrum system development
+* Contribute to re-organizing developer team
 
 ### Technorogy
 * Scala
   * Finagle / Finatra
 * Domain Driven Design
-* Scrum
 
 # Featured Articles
 - [Interview in Forkwell Press (August 2018)](https://press.forkwell.com/entry/2018/08/17/090000)
