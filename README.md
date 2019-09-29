@@ -133,6 +133,10 @@ I've developed new OpenRTB bidder system from scratch.
   * Finagle / Finatra
 * Domain Driven Design
 
+### Slides
+* [Scala と Microservices でつくる証券会社とスタートアップ](https://speakerdeck.com/mura_mi/folio-in-jjug-ccc-2018-fall)
+* [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-fa-falsexian-chang-kara)
+
 # Featured Articles
 - [Interview in Forkwell Press (August 2018)](https://press.forkwell.com/entry/2018/08/17/090000)
 
