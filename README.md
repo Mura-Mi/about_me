@@ -138,7 +138,7 @@ I've developed new OpenRTB bidder system from scratch.
 * [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-fa-falsexian-chang-kara)
 
 # Featured Articles
-- [Interview in Forkwell Press (August 2018)](https://press.forkwell.com/entry/2018/08/17/090000)
+- [Interview in Forkwell Press (August 2018)](https://pr.forkwell.com/2018-08-17-090000/)
 
 # Other than engineer
 http://murataku.yokohama
