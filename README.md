@@ -17,73 +17,33 @@
 
 # Career
 
-## [Simplex](http://www.simplex.ne.jp) (Apr, 2012 ~ Sep, 2016)
+## [FOLIO](https://corp.folio-sec.com) 
+* Financial Technorogy Division (Feb, 2018 ~ Aug, 2019)
+* Product Division (Sep, 2019 ~)
 
-### Interest Rate Derivative Risk Evaluation System Introduction (Simplex PRISM) for Japanese Commercial Bank (Jul, 2012 ~ Jul, 2013)
-This project introduced Simplex PRISM to a japanese commercial bank as interest-based derivative evaluation system.
+### My Role
+* Backend Engineer
+  * Design/Develop/Maintain following microservices (API Servers) for Theme-investment
+    * Fianncial product management
+    * Instrument price feed service
+    * Asset view for customers
+* Agile Coach
+  * Support my team to implement Scrum system development
+* Contribute to re-organizing developer team
 
-#### My Roles
-* Client side application developer (Java SE7, Swing)
-* Data migration tool developer (Java SE7)
-* Plan, design and test System migration schedule and operation
-* System migration from fromer system
+### Technorogy
+* Scala
+  * Finagle / Finatra
+* Domain Driven Design
 
-#### Technorogy
-* Java SE7
-  * Google Guice
-  * Hibernate
-  * Swing
-  * Inhouse-developed application framework
-* Oracle 10g
+### Slides
+* [Scala と Microservices でつくる証券会社とスタートアップ](https://speakerdeck.com/mura_mi/folio-in-jjug-ccc-2018-fall)
+* [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-fa-falsexian-chang-kara)
 
-### Interest / FX Derivertive Risk Evaluation System (Simplex PRISM) for Japanese Mega-Bank (Aug, 2013 ~ Apr, 2015)
-This project introduced Simplex PRISM to a Japanese mega-bank trading division as fair value evaluation system.
-
-#### My Role
-* Developer of evaluation algorithm and risk evaluation system of following financial products
-  * Interest rate swap
-  * European interest rate Swaption
-  * Interest rate future and future option
-  * Bond future and future option
-  * FX Rate option
-* Implement automated test for financial product evaluation algorithm and risk evaluation system
-* Develop OIS-based yield curve calculator prototype running on Microsoft Excel VBA
-
-#### Technorogy
-* Java SE 7
-  * Google Guice
-  * Hibernate
-  * Hazelcast
-  * Gridgain
-  * Swing
-  * Inhouse-developed application framework
-* Oracle 10g
-* Microsoft Excel VBA
+# Featured Articles
+- [Interview in Forkwell Press (August 2018)](https://pr.forkwell.com/2018-08-17-090000/)
 
 ## [CyberAgent](https://www.cyberagent.co.jp/) [AdTech Studio](https://adtech.cyberagent.io/) (Oct, 2016 ~ Jan, 2018)
-### [AIRTRACK](https://www.airtrack.jp/) (Location Data Management Platform)
-
-#### My Role
-* Implement and improve data aggregation and transformation system
-* Develop third-party ad service system
-
-#### Technorogy
-* Java SE8
-  * Spring
-  * [Spark](sparkjava.com)
-  * Doma 2.0
-  * Eclipse Collections
-* JavaScript
-  * ECMAScript2015
-  * Webpack
-  * Babel
-* Amazon Web Service
-  * EC2
-  * S3
-  * Lambda
-  * RDS (MySQL)
-  * Redshift
-  * ElastiCache (Redis 3.2)
 
 ### New OpenRTB Demand-Side Bidder System (DSP)
 I've developed new OpenRTB bidder system from scratch. 
@@ -114,32 +74,68 @@ I've developed new OpenRTB bidder system from scratch.
   * Athena
   * Kinesis Firehose
 
-## [FOLIO](https://corp.folio-sec.com) 
-* Financial Technorogy Division (Feb, 2018 ~ Aug, 2019)
-* Product Division (Sep, 2019 ~)
+### [AIRTRACK](https://www.airtrack.jp/) (Location Data Management Platform)
 
-### My Role
-* Backend Engineer
-  * Design/Develop/Maintain following microservices (API Servers) for Theme-investment
-    * Fianncial product management
-    * Instrument price feed service
-    * Asset view for customers
-* Agile Coach
-  * Support my team to implement Scrum system development
-* Contribute to re-organizing developer team
+#### My Role
+* Implement and improve data aggregation and transformation system
+* Develop third-party ad service system
 
-### Technorogy
-* Scala
-  * Finagle / Finatra
-* Domain Driven Design
+#### Technorogy
+* Java SE8
+  * Spring
+  * [Spark](sparkjava.com)
+  * Doma 2.0
+  * Eclipse Collections
+* JavaScript
+  * ECMAScript2015
+  * Webpack
+  * Babel
+* Amazon Web Service
+  * EC2
+  * S3
+  * Lambda
+  * RDS (MySQL)
+  * Redshift
+  * ElastiCache (Redis 3.2)
 
-### Slides
-* [Scala と Microservices でつくる証券会社とスタートアップ](https://speakerdeck.com/mura_mi/folio-in-jjug-ccc-2018-fall)
-* [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-fa-falsexian-chang-kara)
+## [Simplex](http://www.simplex.ne.jp) (Apr, 2012 ~ Sep, 2016)
 
-# Featured Articles
-- [Interview in Forkwell Press (August 2018)](https://pr.forkwell.com/2018-08-17-090000/)
+### Interest / FX Derivertive Risk Evaluation System (Simplex PRISM) for Japanese Mega-Bank (Aug, 2013 ~ Apr, 2015)
+This project introduced Simplex PRISM to a Japanese mega-bank trading division as fair value evaluation system.
 
-# Other than engineer
-http://murataku.yokohama
+#### My Role
+* Developer of evaluation algorithm and risk evaluation system of following financial products
+  * Interest rate swap
+  * European interest rate Swaption
+  * Interest rate future and future option
+  * Bond future and future option
+  * FX Rate option
+* Implement automated test for financial product evaluation algorithm and risk evaluation system
+* Develop OIS-based yield curve calculator prototype running on Microsoft Excel VBA
 
+#### Technorogy
+* Java SE 7
+  * Google Guice
+  * Hibernate
+  * Hazelcast
+  * Gridgain
+  * Swing
+  * Inhouse-developed application framework
+* Oracle 10g
+* Microsoft Excel VBA
+
+### Interest Rate Derivative Risk Evaluation System Introduction (Simplex PRISM) for Japanese Commercial Bank (Jul, 2012 ~ Jul, 2013)
+This project introduced Simplex PRISM to a japanese commercial bank as interest-based derivative evaluation system.
+
+#### My Roles
+* Client side application developer (Java SE7, Swing)
+* Data migration tool developer (Java SE7)
+* Plan, design and test System migration schedule and operation
+* System migration from fromer system
+
+#### Technorogy
+* Java SE7
+  * Google Guice
+  * Hibernate
+  * Swing * Inhouse-developed application framework
+* Oracle 10g
