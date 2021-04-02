@@ -1,3 +1,5 @@
+You can read this resume in Japanese [here](./career_ja.md).
+
 # Skill
 
 ## Language
