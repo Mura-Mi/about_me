@@ -2,13 +2,37 @@ You can read this resume in Japanese [here](./career_ja.md).
 
 # Skill
 
-## Language
-* Scala
-  * Finagle
-  * Finch
-* Java
-* Ruby
-  * Ruby on Rails (3.2.x, 4.x, 5.0.x)
+## Technical Skill
+
+|Category|Name|Level|
+|---|---|---|
+|Language|-|-|
+||Java|2012~<br>Able to build server-side application with frameworks and libraries.<br>Experienced  latest version is 15|
+||Scala|2017~<br>Able to build server-side application with frameworks and libraries.<br>Experienced latest version is 2.12|
+||Kotlin|-|
+||Ruby|-|
+||Rust|-|
+||JavaScript|-|
+||TypeScript|-|
+|Framework / Library|-|-|
+||Guice|-|
+||Hibernate|-|
+||Doma2|-|
+||Micronaut|-|
+||Spring|-|
+||POI|-|
+||Finagle||
+||Quill||
+||airframe||
+||graphql-kotlin||
+||Ruby on Rails|Experienced 3.2.x, 4.x and 5.0.x|
+|Other Tools|-|-|
+||Gradle||
+||sbt||
+||Jenkins||
+||Docker||
+|Software Development Process / Practice|-|-|
+||Scrum||
 
 ## Agile / Management
 * Scrum
