@@ -5,8 +5,13 @@
   * Finagle
   * Finch
 * Java
+  * Micronaut
+  * Spring
+  * Guava
 * Ruby
   * Ruby on Rails (職務経験は 5.0.x まで)
+* Rust
+* Kotlin
 
 ## アジャイル, マネジメント関連
 * スクラム
@@ -15,6 +20,37 @@
   * Licensed Scrum Product Owner (Scrum Inc. Japan)
 
 # 職務経歴
+
+## [CADDi](https://corp.caddi.jp/)
+* テクノロジー本部 (2020年2月~現在)
+
+### 役割
+* エンジニアリングマネージャー
+  * エンジニアリング職の採用活動。選考フロー整備、スカウト実施、ジョブディスクリプション整備等。
+  * 評価制度運用の改善 ([取り組みの一部を紹介した記事](https://caddi.tech/archives/1544))
+  * テックリード制度およびメンター制度の制定及び運用
+* バックエンドシステムエンジニア
+  * Rust と TypeScript によるサプライチェーン管理システムの機能開発 ([取り組みの一部を紹介した記事](https://caddi.tech/archives/1042))
+  * Kotlin を用いた町工場向け案件管理アプリケーション API サーバーの新規開発における技術選定、アーキテクチャ設計、機能開発
+* 広報活動
+  * [CTO対談シリーズ](https://www.youtube.com/playlist?list=PLPOzbQhOniJPpVohFJUqRLHW2zZDcKdjW) モデレーター
+
+### 技術要素
+* Rust (Edition 2018)
+  * フレームワークに則った機能開発を行うことができる
+  * テストコードの無いプロダクションコードをテスタブルにリファクタリングしながらテストカバレッジ向上させられる
+  * ユニットテスト用の簡単なライブラリを書くことができる
+  * anyhow, tokio 等
+* Kotlin (1.4.x)
+  * アプリケーションフレームワークの技術選定を行える
+  * ヘキサゴナルアーキテクチャの考え方に基づいた簡易的なフレームワークを実装できる
+  * Gradle ビルド時間のチューニングを行える
+  * [Micronaut](https://micronaut.io/), [grpc-kotlin](https://github.com/grpc/grpc-kotlin), [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) などを利用
+  * [Exposed](https://github.com/JetBrains/Exposed) について調査
+
+### 掲載記事 / テックブログ等
+- [https://caddi.tech/archives/1688](https://caddi.tech/archives/1688)
+- [https://caddi.tech/archives/2331](https://caddi.tech/archives/2331)
 
 ## [FOLIO](https://corp.folio-sec.com) 
 * フィナンシャルテクノロジー部 (2018年2月 ~ 2019年8月)
@@ -34,12 +70,10 @@
   * Finagle / Finatra
 * Domain Driven Design
 
-### 登壇時スライド
+### 登壇時スライド / 掲載記事
+* [Forkwell Press (August 2018)](https://pr.forkwell.com/2018-08-17-090000/)
 * [Scala と Microservices でつくる証券会社とスタートアップ](https://speakerdeck.com/mura_mi/folio-in-jjug-ccc-2018-fall)
-* [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-fa-falsexian-chang-kara)
-
-# 掲載記事
-- [Forkwell Press (August 2018)](https://pr.forkwell.com/2018-08-17-090000/)
+* [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-FA-FALSEXIAN-CHANG-KARA)
 
 ## [株式会社サイバーエージェント](https://www.cyberagent.co.jp/) [アドテクスタジオ](https://adtech.cyberagent.io/) (2016年10月 ~ 2018年1月)
 
