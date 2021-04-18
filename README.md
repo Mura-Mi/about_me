@@ -7,8 +7,13 @@ You can read this resume in Japanese [here](./career_ja.md).
   * Finagle
   * Finch
 * Java
+  * Micronaut
+  * Spring
+  * Guava
 * Ruby
-  * Ruby on Rails (3.2.x, 4.x, 5.0.x)
+  * Ruby on Rails (~ 5.0.x)
+* Rust
+* Kotlin
 
 ## Agile / Management
 * Scrum
@@ -18,6 +23,36 @@ You can read this resume in Japanese [here](./career_ja.md).
 * Management 3.0
 
 # Career
+
+## [CADDi](https://corp.caddi.jp/)
+* Technology Dept. (Feb, 2020 ~ current)
+
+### My Role
+* Engineering Manager
+  * Recruiting. Improving recruiting process, writing and sending scout letters, maintaining job descriptions.
+  * Improving employee evaluation process. ([Article](https://caddi.tech/archives/1544))
+  * Introducing tech lead role and mentor role to organization.
+* Backend Engineer
+  * Feature development for supply chain management system. (language: Rust and TypeScript) ([Article](https://caddi.tech/archives/1042))
+  * Design, technology selection, developing features for project management application. (Language: Kotlin)
+* Engineering Team Promotion Activity
+  * Moderator for [CTO Talk](https://www.youtube.com/playlist?list=PLPOzbQhOniJPpVohFJUqRLHW2zZDcKdjW) モデレーター
+
+### Technology
+* Rust (Edition 2018)
+  * Can develop feature on frameworks.
+  * Can improve legacy codes by refactoring and introducing unit tests.
+  * Can wirte and build small library for unit testing.
+  * Experienced library: anyhow, tokio, etc.
+* Kotlin (1.4.x)
+  * Can select framework and library for application development.
+  * Can implement simple framework based on hexagonal architecture.
+  * Can improve Gradle build.
+  * Experienced library and frameworks: [Micronaut](https://micronaut.io/), [grpc-kotlin](https://github.com/grpc/grpc-kotlin), [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) などを利用
+
+### Blog articles I wrote
+- [https://caddi.tech/archives/1688](https://caddi.tech/archives/1688)
+- [https://caddi.tech/archives/2331](https://caddi.tech/archives/2331)
 
 ## [FOLIO](https://corp.folio-sec.com) 
 * Financial Technorogy Division (Feb, 2018 ~ Aug, 2019)
@@ -38,11 +73,9 @@ You can read this resume in Japanese [here](./career_ja.md).
   * Finagle / Finatra
 * Domain Driven Design
 
-### Slides
+### Slides and Featured Articles
 * [Scala と Microservices でつくる証券会社とスタートアップ](https://speakerdeck.com/mura_mi/folio-in-jjug-ccc-2018-fall)
 * [ありふれたもの，未だ見ぬもの ~ FOLIO プロダクト開発の現場から](https://speakerdeck.com/mura_mi/arihuretamofalse-wei-dajian-numofalse-folio-purodakutokai-fa-falsexian-chang-kara)
-
-# Featured Articles
 - [Interview in Forkwell Press (August 2018)](https://pr.forkwell.com/2018-08-17-090000/)
 
 ## [CyberAgent](https://www.cyberagent.co.jp/) [AdTech Studio](https://adtech.cyberagent.io/) (Oct, 2016 ~ Jan, 2018)
