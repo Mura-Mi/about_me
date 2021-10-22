@@ -24,8 +24,21 @@ You can read this resume in Japanese [here](./career_ja.md).
 
 # Career
 
+## [Kokopelli, Inc](https://kokopelli-inc.com/)
+* Product Dept. Product Development Group (Jun, 2021 ~ Sep, 2021)
+  * Sub Group Manager
+* Big Advance Dept, Product Development Group (Oct, 2021)
+  * Sub Group Manager
+
+### 役割
+* Engineering Manager
+  * Recruiting. Improving recruiting process, writing and sending scout letters, maintaining job descriptions.
+  * People Management (1 on 1, Career Coaching, Team Arrangement, etc...)
+  * Coaching Development Process (Introducing Scrum, Improving BTS usage, etc...)
+  * Introducing some internal tools such as Chat tool (Migrating from Chatwork to Slack, Introducing Notion, etc...)
+
 ## [CADDi](https://corp.caddi.jp/)
-* Technology Dept. (Feb, 2020 ~ current)
+* Technology Dept. (Feb, 2020 ~ Jun, 2021)
 
 ### My Role
 * Engineering Manager
