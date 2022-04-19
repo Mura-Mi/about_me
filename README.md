@@ -35,3 +35,5 @@
 
 # お問い合わせ
 お仕事の相談などは、以下からご連絡ください。
+* [e-mail](mailto:mura.mi.nantoka@gmail.com)
+* [Twitter](https://twitter.com/mura_mi) (DM ください)
